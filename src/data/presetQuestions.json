@@ -1,0 +1,1127 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Walk me through your resume.",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about your most recent role.",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What made you choose your major?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What made you interested in this industry?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Why are you interested in this role?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Why do you want to work for our company?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Why should we hire you?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What can you bring to this team?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What are you looking for in your next role?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What are your strengths?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What is your greatest weakness?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Where do you see yourself in five years?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What are your short-term and long-term career goals?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would your colleagues describe you?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you worked in a team.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you worked with a diverse team.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you had to collaborate with another department.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you supported a teammate.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle a team member who is not pulling their weight?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to build consensus.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you worked with someone whose working style was very different from yours.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to rely on others to get something done.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you build trust with new team members?",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you gave credit to someone else.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you showed leadership.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you took initiative.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you led a project from start to finish.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you motivated others.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to lead without formal authority.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you mentored or coached someone.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you delegated work effectively.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to make a difficult decision.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you challenged the status quo.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you turned around a failing project.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had a conflict with a coworker.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you disagreed with your manager.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle conflict in a team?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to persuade someone.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you had to influence without authority.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to deliver bad news.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you had to deal with a difficult stakeholder or client.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to say no to someone.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle feedback from peers?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to present to senior leadership.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you failed and what you learned.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you made a mistake.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you received constructive feedback.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to learn something quickly.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to adapt to change.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you had to step outside your comfort zone.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you improved a process.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to unlearn something.",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle criticism?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What is the biggest lesson you have learned in your career?",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you worked under pressure.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to meet a tight deadline.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you prioritize when everything is urgent?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to prioritize multiple tasks.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you had to make a trade-off.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had too much on your plate.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle stress and pressure?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to work overtime or go the extra mile.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you stay organized?",
+    "tag_list": [
+      "逻辑思考型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to say no to a request because of priorities.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would you handle multiple urgent tasks at the same time?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What would you do if you disagreed with your manager's decision?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would you deal with a team member who is not pulling their weight?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What would you do if you made a mistake that affected the team?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would you handle a difficult customer or client?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What would you do if your manager asked you to do something unethical?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would you handle a project with unclear requirements?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What would you do if you had to deliver a project late?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would you handle a sudden change in priorities?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What would you do if you had to work with someone you don't get along with?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What do you know about our company?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you fit our company culture?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What do you know about this position?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What can you contribute to our company?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you align with our company values?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What do you think are the biggest challenges facing our industry?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What do you like most about our products or services?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle working in a fast-paced environment?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What type of company culture do you thrive in?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you manage a team?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle underperformance?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you give feedback?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you motivate your team?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a time you had to fire someone.",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you set goals for your team?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you measure team success?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle conflict between team members?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you develop your direct reports?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you balance results and people?",
+    "tag_list": [
+      "压力型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 5,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Walk me through a project you led.",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What tools and technologies are you most comfortable with?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you approach problem-solving?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Tell me about a technical challenge you solved.",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you ensure quality in your work?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you stay current with industry trends?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Describe a time you improved efficiency or reduced costs.",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you handle data or information you don't fully understand?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What is your experience with cross-functional projects?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 4,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How do you measure success in this role?",
+    "tag_list": [
+      "业务型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What are your salary expectations?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What is your current salary?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Are you legally authorized to work in this country?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Do you now or in the future require sponsorship?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "When can you start?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What is your notice period?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Are you willing to relocate?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Are you comfortable with travel?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Are you available to work flexible hours?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Do you have any planned vacations or commitments?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Do you have any questions for us?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Is there anything else we should know about you?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Why are you the best candidate for this role?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What are the next steps in the process?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What is the biggest challenge in this role?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How is success measured in this role?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What do you enjoy most about working here?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "How would you describe the team culture?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "What opportunities for growth are available?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 2,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Is there anything about my background that concerns you?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  },
+  {
+    "question": "Why are you leaving your current job?",
+    "tag_list": [
+      "常规结构面试型"
+    ],
+    "scene": "职场面试",
+    "difficulty": 3,
+    "source": "外企面试题库"
+  }
+]
